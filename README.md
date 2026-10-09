@@ -94,19 +94,12 @@ The insurance pool accumulates across seasons, creating a compounding safety net
 
 ---
 
-## Live on Solana Devnet
+## Siyakhula Website Link:
 
-The Siyakhula smart contract is deployed and operational on Solana Devnet.
 
 ```
-Program ID: <YOUR_PROGRAM_ID_HERE>
-```
+https://siyakhula-live.vercel.app/
 
-> Replace the placeholder above with your deployed Program ID.
-
-**Verify on Explorer:**
-```
-https://explorer.solana.com/address/<YOUR_PROGRAM_ID_HERE>?cluster=devnet
 ```
 
 ### On-Chain Capabilities
